@@ -69,13 +69,13 @@
 
 ## 🎯 Featured Projects
 
-- 🔹 AI Powered Firewall Detection System (Machine Learning)
-- 🔹 Sales Dashboard using Power BI
-- 🔹 Business Analytics Dashboard using Tableau
-- 🔹 Data Analysis Project using Python & SQL
-- 🔹 Full Stack MERN Application
-- 🔹 DevOps CI/CD Pipeline using Jenkins & Docker
-- 🔹 AWS Cloud Deployment Project
+🔹 AI Powered Firewall Detection System (Machine Learning)
+🔹 Sales Dashboard using Power BI
+🔹 Business Analytics Dashboard using Tableau
+🔹 Data Analysis Project using Python & SQL
+🔹 Full Stack MERN Application
+🔹 DevOps CI/CD Pipeline using Jenkins & Docker
+🔹 AWS Cloud Deployment Project
 
 ---
 
